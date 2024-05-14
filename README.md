@@ -1,9 +1,10 @@
 ## Descripción
 
 Proyecto 3
-HTML + CSS
+Página web de chocolates con HTML + CSS
 
-Wireframe
-## Imagen
+## Wireframe
+
+Este es el wireframe de mi proyecto
 
 <img src="wireframe.jpg" alt="WIREFRAME">
